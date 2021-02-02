@@ -1,4 +1,4 @@
-# 2021_Deep-Learning-from-Scratch
+# 2021_Deep-Learning-study
 books, blog, paper, wickdocs.. anywhere might have information
 
 ### 느낀점
